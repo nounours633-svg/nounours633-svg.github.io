@@ -1,8 +1,17 @@
-[{
-  "relation": ["delegate_permission/common.handle_all_urls"],
-  "target": {
-    "namespace": "android_app",
-    "package_name": "io.github.nounours633_svg.twa",
-    "sha256_cert_fingerprints": ["AC:9E:25:F9:34:CC:EA:9A:57:6E:A1:03:20:57:D5:C5:6A:8C:9E:3F:F4:1C:D9:48:EB:7E:B1:DF:C9:74:F0:D7"]
+
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "io.github.nounours633_svg.twa",
+      "sha256_cert_fingerprints": [
+        "E1:33:F1:22:9F:41:4F:97:EB:6D:35:A8:28:F8:AB:83:3E:29:A6:D4:09:0E:BC:1E:CA:02:56:00:07:F0:73:F5",
+        "87:D9:A4:FD:E4:4E:CD:06:F4:03:7E:4C:DF:0A:62:50:3E:5B:C2:93:18:61:A2:FB:CD:46:5C:26:8E:83:E9:49",
+        "E9:66:D4:6D:AE:58:FF:0D:61:87:66:92:95:63:24:BE:57:40:9E:30:F4:8E:37:85:9A:09:91:11:31:E6:88:4C"
+      ]
+    }
   }
-}]
+]
