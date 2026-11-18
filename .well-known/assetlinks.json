@@ -1,0 +1,8 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "io.github.nounours633_svg.twa",
+    "sha256_cert_fingerprints": ["AC:9E:25:F9:34:CC:EA:9A:57:6E:A1:03:20:57:D5:C5:6A:8C:9E:3F:F4:1C:D9:48:EB:7E:B1:DF:C9:74:F0:D7"]
+  }
+}]
