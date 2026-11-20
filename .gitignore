@@ -1,0 +1,10 @@
+# Clés et fichiers de signature Android : ne jamais publier
+*.keystore
+*.jks
+android.keystore
+/upload-keystore/
+
+# Sorties de compilation
+/android/
+/app-release-*.aab
+/app-release-*.apk
