@@ -1,11 +1,11 @@
 # Préparation Android — Mon Carnet Routier
 
-Ce dépôt héberge le site à la racine de `https://nounours633-svg.github.io/`.
-Le fichier `twa-manifest.json` décrit l'application Android Trusted Web Activity (TWA).
+Ce dépôt héberge le domaine principal `https://nounours633-svg.github.io/` et le fichier `/.well-known/assetlinks.json`.
+Le fichier `twa-manifest.json` décrit l'application Android Trusted Web Activity (TWA) et pointe vers la version actuelle du carnet publiée dans le dépôt projet `Mon-carnet-routier` : `https://nounours633-svg.github.io/Mon-carnet-routier/`.
 
 ## Éléments déjà en place
 - Application web existante, conservée sans modification.
-- Manifeste web : `https://nounours633-svg.github.io/manifest.json`
+- Manifeste web : `https://nounours633-svg.github.io/Mon-carnet-routier/manifest.json`
 - Association Android : `/.well-known/assetlinks.json`
 - Identifiant Android prévu : `io.github.nounours633_svg.twa`
 
