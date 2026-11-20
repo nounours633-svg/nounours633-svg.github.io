@@ -13,9 +13,9 @@
   "navigationDividerColorDark": "#00000000",
   "backgroundColor": "#090d13",
   "enableNotifications": false,
-  "startUrl": "/",
-  "iconUrl": "https://nounours633-svg.github.io/icon-512.png",
-  "maskableIconUrl": "https://nounours633-svg.github.io/icon-512.png",
+  "startUrl": "/Mon-carnet-routier/",
+  "iconUrl": "https://nounours633-svg.github.io/Mon-carnet-routier/icon-512.png",
+  "maskableIconUrl": "https://nounours633-svg.github.io/Mon-carnet-routier/icon-512.png",
   "splashScreenFadeOutDuration": 300,
   "signingKey": {
     "path": "./android.keystore",
@@ -23,7 +23,7 @@
   },
   "appVersionCode": 1,
   "appVersion": "1.0.0",
-  "webManifestUrl": "https://nounours633-svg.github.io/manifest.json",
+  "webManifestUrl": "https://nounours633-svg.github.io/Mon-carnet-routier/manifest.json",
   "fallbackType": "customtabs",
   "minSdkVersion": 23,
   "fingerprints": [
